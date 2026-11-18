@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 700px;
+    height: 2000px;
     margin: 0;
 }
 
@@ -13,4 +13,10 @@ button {
     background-color: #63DB4F;
     color: white;
     font-family: "Silkscreen", sans-serif;
+}
+
+img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 10px;
 }
